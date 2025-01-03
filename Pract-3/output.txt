@@ -1,0 +1,30 @@
+Keyword: int
+Keyword: main
+Punctuation: (
+Punctuation: )
+Punctuation: {
+Keyword: int
+Identifier: a
+Operator: =
+Constant: 5
+Punctuation: ,
+Lexical Error: 7H
+Punctuation: ;
+Keyword: char
+Identifier: b
+Operator: =
+Lexical Error: 'x'
+Punctuation: ;
+Keyword: return
+Identifier: a
+Operator: +
+Identifier: b
+Punctuation: ;
+Punctuation: }
+
+Symbol Table Entries:
+1. a
+2. b
+
+Lexical Errors:
+7H

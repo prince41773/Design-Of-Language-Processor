@@ -1,0 +1,38 @@
+Practical Definition:
+Implementation of a Lexical Analyzer for C Language Compiler
+
+Objective:
+To design and implement a lexical analyzer, the first phase of a compiler, for the C programming language. The lexical analyzer should perform the following tasks:
+
+» Tokenizing the input string.
+» Removing comments.
+» Removing white spaces.
+» Entering identifiers into the symbol table.
+» Generating lexical errors.
+
+Input requirements:
+» Accept a C source code file as input.
+
+» The input may contain:{ Keywords,
+Identifiers,
+Constants,
+Strings,
+Punctuation,
+Operators,
+Comments,
+White spaces,
+Expected Output}
+
+Expected output:
+
+» Tokenized Output:
+Categorize tokens into the following six types:
+1. Keyword
+2. Identifier
+3. Constant
+4. String
+5. Punctuation
+6. Operator,...
+
+»  Symbol table: All identified identifiers should be stored in a symbol table.
+• Lexical errors: Detect and report invalid tokens or lexemes, such as 7H.
