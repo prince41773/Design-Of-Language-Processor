@@ -1,0 +1,12 @@
+String Validation Results:
+-------------------------
+Input: ibtai - Invalid string
+Input: ibtaea - Valid string
+Input: a - Valid string
+Input: ibtibta - Valid string
+Input: ibtaeibta - Valid string
+Input: ibti - Invalid string
+Input: ibtaa - Invalid string
+Input: iea - Invalid string
+Input: ibtb - Invalid string
+Input: ibtibt - Invalid string
